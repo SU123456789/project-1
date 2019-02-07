@@ -1,0 +1,14 @@
+img{
+    height:300px;
+    border:9px solid red;
+}
+p{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    background-color :pink;
+}
+text{
+    font-family:"this movie is beatiful";
+    font-size:12px;
+    text-align:center;
+    color:red;
+}
